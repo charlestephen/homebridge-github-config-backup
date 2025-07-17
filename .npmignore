@@ -1,0 +1,4 @@
+.DS_STORE
+tsconfig.json
+.env
+*.log
